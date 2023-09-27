@@ -17,4 +17,4 @@
 ###### map() https://p5js.org/reference/#/p5/map: Remap the range of a value.
 ###### strokeWeight() https://p5js.org/reference/#/p5/strokeWeight: Setting the line width.
 ### Image Example:
-![p5.js Minecraft-like Example](Code_Example_Image_Link)
+![p5.js Minecraft-like Example](https://github.com/congratsalex/jwan3916_9103_yourTut3GroupD/blob/5a93b88dfb7b38e57cc542e53a433fb2da528209/image3.png)
