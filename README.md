@@ -16,3 +16,5 @@
 ###### randomGaussian() https://p5js.org/reference/#/p5/randomGaussian: Generates random numbers with a Gaussian (normal) distribution.
 ###### map() https://p5js.org/reference/#/p5/map: Remap the range of a value.
 ###### strokeWeight() https://p5js.org/reference/#/p5/strokeWeight: Setting the line width.
+### Image Example:
+![p5.js Minecraft-like Example](Code_Example_Image_Link)
